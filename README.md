@@ -1,4 +1,4 @@
-"# ValoBot :snake:
+# ValoBot :snake:
 
 ValoBot is a C++ based cheat that allows afk xp botting as a main feature. Imagine having the power to customize your Valorant gameplay, enhancing your skills, and having a blast, all for free.
 
